@@ -11,7 +11,7 @@ public class Opertor9 {
 		System.out.println("Enter the 1st Number : ");
 
 		int m = Scan.nextInt();
-/
+
 		System.out.println("Enter the 2nd Number : ");
 
 		int n = Scan.nextInt();
