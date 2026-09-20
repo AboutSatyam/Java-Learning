@@ -7,6 +7,7 @@ public class FilterOdd109 {
 	public static void main(String[] args)
 
 	{
+		//R
 		List<Integer> num = List.of(10, 1, 2, 16, 14, 54, 69, 5, 4, 89, 16, 25);
 		num.stream()
 		      .filter(prin -> prin % 2 == 1)
