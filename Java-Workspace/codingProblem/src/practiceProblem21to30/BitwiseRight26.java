@@ -1,13 +1,12 @@
 package practiceProblem21to30;
 
 import java.util.Scanner;
-
 public class BitwiseRight26 {
 
 	public static void main(String[] args) {
 
 		Scanner Scan = new Scanner(System.in);
-		System.out.println(" Welcome To Bitwise Right Shift Calcualtor: ");
+		System.out.println(" Welcome To Bitwisse Right Shift Calcualtor: ");
 
 		System.out.print(" Enter The NUmber : ");
 		int B = Scan.nextInt();

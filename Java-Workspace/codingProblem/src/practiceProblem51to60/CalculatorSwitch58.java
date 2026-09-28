@@ -7,7 +7,7 @@ public class CalculatorSwitch58 {
 	public static void main(String[] args) {
 		Scanner Scan = new Scanner(System.in);// ctrl + shift+ O shortcut;;
 
-		System.out.println("Welcome To Artematic Calculator -->");
+		System.out.println("Welcome To Artmatic Calculator -->");
 		System.out.print("Enter The 1st Number : ");
 		double num1 = Scan.nextDouble();
 		System.out.print("Enter The 2st Number : ");
@@ -19,6 +19,8 @@ public class CalculatorSwitch58 {
 		System.out.print("Enter The Which Operation You Want To Perform : ");
 		int oper = Scan.nextInt();
 		// double res;
+
+
 		switch (oper) {
 		case 1:
 			double res = num1 + num2;
@@ -42,6 +44,7 @@ public class CalculatorSwitch58 {
 			double res3 = num1 / num2;
 			System.out.println("");
 			System.out.println(" Division Of Given Number Is " + res3);
+			//System.out.println("Hello Satyam");
 			break;
 
 		default:
