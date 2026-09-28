@@ -36,7 +36,7 @@ public class CalculatorSwitch58 {
 
 		case 3:
 			double res2 = num1 * num2;
-			System.out.println("");
+			System.out.println(" ");
 			System.out.println(" Multiplication Of Given Number Is " + res2);
 			break;
 
