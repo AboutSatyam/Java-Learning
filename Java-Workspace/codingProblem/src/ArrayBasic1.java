@@ -13,7 +13,7 @@ public class ArrayBasic1 {
 		int l = marks.length;
 
 		Scanner scan = new Scanner(System.in);
-		// System.out.println("Kindly Enter The Student Marks");
+		// System.out.println("Kindly Enter Student Marks");
 
 		for (i = 0; i < marks.length; i++) {
 
