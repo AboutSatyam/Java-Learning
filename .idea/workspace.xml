@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb11910c-7834-4244-9db4-6b9d934a347c" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/Java-Workspace/Assignment/src/TicTacTae/Sample.java" afterDir="false" />
+    <list default="true" id="bb11910c-7834-4244-9db4-6b9d934a347c" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Java-Workspace/Assignment/src/TicTacTae/Game.java">
+      <change beforePath="$PROJECT_DIR$/.idea/Java-Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java-Learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java-Workspace/Assignment/src/TicTacTae/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Workspace/Assignment/src/TicTacTae/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Workspace/Learning/bin/oops/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Workspace/Learning/bin/oops/Demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Workspace/Learning/src/oops/Inheritances3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Workspace/codingProblem/src/Inheritances3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +24,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/Java-Workspace/Assignment/src/TicTacTae" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -56,6 +63,9 @@
   "keyToString": {
     "Application.BitwiseRight26.executor": "Run",
     "Application.CalculatorSwitch58.executor": "Run",
+    "Application.Inheritances3 (1).executor": "Run",
+    "Application.Inheritances3 (2).executor": "Run",
+    "Application.Inheritances3.executor": "Run",
     "Application.Sample.executor": "Run",
     "Application.Subscribe2.executor": "Run",
     "JUnit.All in hibernate-learning.executor": "Run",
@@ -68,16 +78,59 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/progr/IdeaProjects/Java-Learning",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Sample">
+  <component name="RunManager" selected="Application.Inheritances3 (2)">
     <configuration name="CalculatorSwitch58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practiceProblem51to60.CalculatorSwitch58" />
       <module name="Java-Learning" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="practiceProblem51to60.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inheritances3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.Inheritances3" />
+      <module name="Java-Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inheritances3 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.Inheritances3" />
+      <module name="Java-Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inheritances3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.Inheritances3" />
+      <module name="Java-Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,19 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in hibernate-learning" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hibernate-learning" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inheritances3 (2)" />
+        <item itemvalue="Application.Inheritances3 (1)" />
+        <item itemvalue="Application.Inheritances3" />
         <item itemvalue="Application.Sample" />
         <item itemvalue="Application.CalculatorSwitch58" />
-        <item itemvalue="JUnit.All in hibernate-learning" />
       </list>
     </recent_temporary>
   </component>
@@ -142,5 +189,9 @@
     <MESSAGE value="Update" />
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
     <option name="LAST_CHUNK_COMMIT_MESSAGE" value="Update" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
