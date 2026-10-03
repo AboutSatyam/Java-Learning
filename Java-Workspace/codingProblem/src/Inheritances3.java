@@ -18,7 +18,6 @@ public class Inheritances3 {
 
         Satyam sp = new Satyam();
         // sp.Telusko();
-        //Hello World
 
     }
 
