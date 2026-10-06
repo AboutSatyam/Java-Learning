@@ -1,7 +1,7 @@
-## 🗺️ Java Full Stack Roadmap ⭐
+## 🗺️ Java Stack  ⭐
 
 ``` 
-JAVA FULL STACK
+JAVA STACK
 │
 ├── 1. OOPS / Core Java ✅
 │
@@ -17,8 +17,5 @@ JAVA FULL STACK
 ├── 4. Tools ✅
 │   ├── Git & GitHub
 │   └── Maven / Gradle
-│
-├── 5. Spring Boot
-│
-└── 6. Microservices
+
 ```
