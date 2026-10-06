@@ -9,9 +9,9 @@ JAVA STACK
 │   ├── SQL
 │   └── MySQL
 │
-├── 3. Backend
-│   ├── JDBC ✅
-│   ├── Servlets ✅
+├── 3. Backend ✅
+│   ├── JDBC 
+│   ├── Servlets 
 │   └── Hibernate
 │
 ├── 4. Tools ✅
