@@ -15,7 +15,7 @@ JAVA STACK
 │   └── Hibernate
 │
 ├── 4. Tools ✅
-│   ├── Git & GitHub
-│   └── Maven / Gradle
+    ├── Git & GitHub
+    └── Maven / Gradle
 
 ```
