@@ -1,0 +1,54 @@
+/**
+	 * 89. Write a method concatenate Strings that takes variable arguments of
+	 * String type and concatenates them into a single string.
+	 **/
+
+	/**
+	 * 90. Write a program that sorts a list of String objects in descending order
+	 * using a custom Comparator.
+	 **/
+
+	/**
+	 * 91. Use the Collections class to count the frequency of a particular element
+	 * in an ArrayList.
+	 **/
+
+	/**
+	 * 92. Write a method that swaps two elements in an ArrayList, given their
+	 * indices.
+	 **/
+
+	/**
+	 * 93. Create a program that reverses the elements of a List and prints the
+	 * reversed list.
+	 **/
+
+	/**
+	 * 94. Create a PriorityQueue of a custom class Student with attributes name and
+	 * grade. Use a comparator to order by grade.
+	 **/
+
+	/**
+	 * 95. Write a program that takes a string and returns the number of unique
+	 * characters using a Set.
+	 **/
+	 /**
+	 * 96. Create an enum called Day that represents the days of the week. Write a
+	 * program that prints out all the days of the week from this enum.
+	 **/
+
+	/**
+	 * 97. Enhance the Day enum by adding an attribute that indicates whether it is
+	 * a weekday or weekend. Add a method in the enum that returns whether it's a
+	 * weekday or weekend, and write a program to print out each day along with its
+	 * type.
+	 **/
+
+	/**
+	 * 98. Create a Map where the keys are country names (as String) and the values
+	 * are their capitals (also String). Populate the map with at least five
+	 * countries and their capitals. Write a program that prompts the user to enter
+	 * a country name and then displays the corresponding capital, if it exists in
+	 * the map.
+	 **/
+			
