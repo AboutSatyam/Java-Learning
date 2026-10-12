@@ -24,7 +24,7 @@ class satyaam implements Calc, Calcc {
 		int res = a + b;
 		System.out.println(res);
 
-		System.out.println("%%%%%%%%%%%%%%%");
+		System.out.println("%%%%%%%%%%%%%S%");
 	}
 }
 

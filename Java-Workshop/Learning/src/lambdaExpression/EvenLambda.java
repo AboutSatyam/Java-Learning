@@ -8,7 +8,7 @@ public class EvenLambda {
 
 		Scanner input = new Scanner(System.in);
 
-		System.out.println("Enter The Number To Find The Square : ");
+		System.out.println("Welcome To Even Odd Checker : ");
 		int num = input.nextInt();
 
 		Even res = n -> (n % 2 == 0 ? 1 : 0);
