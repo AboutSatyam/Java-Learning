@@ -8,7 +8,7 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)
 @interface HelloFinal {
-    String finfal() default " hello"; // single value annotation
+    String Final() default " hello"; // single value annotation
 
 }
 
@@ -16,14 +16,14 @@ import java.lang.annotation.Target;
 
     int value();
 
-    String finfal(); // Multi value annotation
+    String Final(); // Multi value annotation
 
 }
 
-@HelloFinal1(finfal = "India", value = 34)
+@HelloFinal1(Final = "India", value = 34)
 
 public class Annot1 {
-    @HelloFinal(finfal = "Done")
+    @HelloFinal(Final = "Done")
     public static void main(String[] args) {
 
         System.out.println("Hello World");
