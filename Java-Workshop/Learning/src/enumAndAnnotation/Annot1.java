@@ -8,7 +8,7 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)
 @interface HelloFinal {
-    String Final() default " hello"; // single value annotation
+    String Final() default " hello "; // single value annotation
 
 }
 
