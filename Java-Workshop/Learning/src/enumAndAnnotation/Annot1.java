@@ -16,7 +16,7 @@ import java.lang.annotation.Target;
 
     int value();
 
-    String Final(); // Multi value annotation
+    String Final(); // Multi value annotation .
 
 }
 
@@ -25,9 +25,7 @@ import java.lang.annotation.Target;
 public class Annot1 {
     @HelloFinal(Final = "Done")
     public static void main(String[] args) {
-
         System.out.println("Hello World");
-
     }
 
 }
